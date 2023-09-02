@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Wisdom-Dziwornu
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning exploration data analysis 
-- 💞️ I’m looking to collaborate on anything data science 
-- 📫 How to reach me ...
+👋 Hello, I'm Wisdom Dziwornu!
 
-<!---
-Wisdom-Dziwornu/Wisdom-Dziwornu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Economist | Data Scientist | Python Enthusiast
+
+💼 Master's Student at Södertörn University 📚
+
+📊 Passionate about leveraging data to drive insights and innovation.
+
+🤖 Aspiring Machine Learning Engineer 🧠
+
+🔍 Exploring the intersections of economics, data science, and digital finance.
+
+🚀 Let's collaborate and build a data-driven future together!
+
+📫 Connect with me on LinkedIn: [LinkedIn Profile](www.linkedin.com/in/wisdomdziwornu)
